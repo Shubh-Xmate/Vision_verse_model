@@ -8,3 +8,4 @@ To assist you, we have provided dataset with four classifications; now it's up t
 
 # solution
 We have made a deep learning model by implementing Convolutional Neural Network by help of Tensorflow.
+And finally achieved an accuracy of 95%.
